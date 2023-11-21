@@ -20,10 +20,10 @@ def replace_words_in_file(aufgabe2, replacements):
 
 
 # Example usage:
-aufgabe2 = 'aufgabe2.txt'  # Replace 'input.txt' with the path to your text file
+aufgabe2 = 'aufgabe2.txt'
 replacements = {
     'plumb': 'fier',
-    # Add more word replacements as needed
+    
 }
 
 replace_words_in_file(aufgabe2, replacements)
